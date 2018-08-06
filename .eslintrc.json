@@ -29,7 +29,7 @@
         "brace-style": "error",
         "comma-dangle": ["error", "never"],
         "func-call-spacing": ["error", "never"],
-        "max-len": ["error", { "code": 80, "ignoreComments": true }],
+        "max-len": ["error", { "code": 120, "ignoreComments": true }],
         "new-cap": ["error", { "newIsCap": true }],
         "new-parens": "error",
         "no-nested-ternary": "error",
